@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://theachecommercehcmue.azurewebsites.net/sitemap.xml
+
+

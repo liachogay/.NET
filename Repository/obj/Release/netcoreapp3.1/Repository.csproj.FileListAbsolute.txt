@@ -1,0 +1,15 @@
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\bin\Release\netcoreapp3.1\Repository.deps.json
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\bin\Release\netcoreapp3.1\Repository.runtimeconfig.dev.json
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\bin\Release\netcoreapp3.1\Repository.dll
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\bin\Release\netcoreapp3.1\Repository.pdb
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\bin\Release\netcoreapp3.1\SqlClientExtention.dll
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\bin\Release\netcoreapp3.1\SqlClientExtention.pdb
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\obj\Release\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\obj\Release\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\obj\Release\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\obj\Release\netcoreapp3.1\Repository.dll
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\obj\Release\netcoreapp3.1\Repository.pdb
+C:\Users\huu\source\repos\dandy-dick\ecom-final-project-2020\Repository\obj\Release\netcoreapp3.1\Repository.genruntimeconfig.cache

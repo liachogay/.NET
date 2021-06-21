@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/theachecommerce/databases/TheAchEcom_db",
+      "type": "mssql.azure",
+      "connectionId": "EcomContext",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
